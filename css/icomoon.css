@@ -3132,4 +3132,6 @@
 .icon-IcoMoon:before {
     content: "\eca7";
 }
-
+.logo-boosty:before {
+    content: url("https://befrimon.github.io/Portfolio/images/boosty.svg")
+}
